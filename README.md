@@ -3,11 +3,10 @@
 ERP developer working mostly in the **Frappe / ERPNext** ecosystem — custom apps, integrations,
 and the unglamorous back-office logic that keeps finance and operations teams honest.
 
-- 🧾 Currently interested in **e-invoicing and tax compliance** — ZATCA (Saudi Arabia) and the
-  UAE's PINT AE / Peppol model
 - 🛠️ Day to day: custom DocTypes, workflows, server-side business logic, third-party integrations
-- 🌱 Building an open-source library for **UAE PINT AE invoice generation and validation**
-- 💬 Happy to talk about Frappe internals, ERP data modelling, or e-invoicing standards
+- 🎨 Front-end with **Vue.js** when an ERP screen isn't the right place for the job
+- 🌱 Currently deepening my work on Frappe internals and API design
+- 💬 Happy to talk about Frappe internals, ERP data modelling, or integration design
 
 ### Tech
 
@@ -25,10 +24,10 @@ and the unglamorous back-office logic that keeps finance and operations teams ho
 **ERP customisation** — building apps on top of ERPNext rather than around it: custom DocTypes,
 document workflows, permission models, and reports that finance teams actually use.
 
-**Integrations** — connecting ERPNext to payment gateways, government tax portals, and internal
-services, including the retry/idempotency plumbing that makes them survive real traffic.
+**Integrations** — connecting ERPNext to payment gateways and internal services, including the
+retry and idempotency plumbing that makes them survive real traffic.
 
-
+**Front-end** — Vue.js interfaces for the parts of a product that shouldn't live inside the desk UI.
 
 ---
 
