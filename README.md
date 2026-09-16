@@ -28,8 +28,7 @@ document workflows, permission models, and reports that finance teams actually u
 **Integrations** — connecting ERPNext to payment gateways, government tax portals, and internal
 services, including the retry/idempotency plumbing that makes them survive real traffic.
 
-**E-invoicing** — invoice clearance flows, UBL 2.1 document generation, and the validation rules
-that decide whether a tax authority accepts an invoice or rejects it.
+
 
 ---
 
